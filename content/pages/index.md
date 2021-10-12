@@ -59,15 +59,15 @@ sections:
           - Typography
       - title: Languages
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |+
+          *   Java Script
+          *   React
+          *   HTML
+          *   CSS
+          *   SASS
+          *   Java
+          *   Python
+
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
