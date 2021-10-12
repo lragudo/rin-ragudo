@@ -49,13 +49,11 @@ sections:
           - Communication strategy
       - title: Toola
         image: images/service-2.svg
-        content: |+
-          *   Adobe Creative Cloud
-              *   Ilustrator, Indesign, Photoshop, After Effects, Premier Pro
-          *   Figma 
-          *   Protopie
-          *   Spark AR
+        content: >
+          *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
+          *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
 
+                                                                                                                                          Ilustrator, Indesign, Photoshop, After Effects, Premier ProFigmaProtopieSpark AR
       - title: Languages
         image: images/service-3.svg
         content: |+
