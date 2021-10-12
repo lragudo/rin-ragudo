@@ -49,14 +49,13 @@ sections:
           - Communication strategy
       - title: Toola
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |+
+          *   Adobe Creative Cloud
+              *   Ilustrator, Indesign, Photoshop, After Effects, Premier Pro
+          *   Figma 
+          *   Protopie
+          *   Spark AR
+
       - title: Languages
         image: images/service-3.svg
         content: |+
