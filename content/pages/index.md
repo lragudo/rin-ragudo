@@ -50,7 +50,7 @@ sections:
       - title: Toola
         image: images/service-2.svg
         content: >
-          #### Adobe Creative Cloud (Ilustrator, Indesign, Photoshop, After
+          ###### Adobe Creative Cloud (Ilustrator, Indesign, Photoshop, After
           Effects, Premier Pro)&#xA;Figma&#xA;Protopie&#xA;Spark AR
       - title: Languages
         image: images/service-3.svg
