@@ -47,7 +47,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Toola
+      - title: Tools
         image: images/service-2.svg
         content: >
           ###### Adobe Creative Cloud (Ilustrator, Indesign, Photoshop, After
