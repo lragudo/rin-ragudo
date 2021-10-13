@@ -1,7 +1,7 @@
 ---
 title: Sound Board
 subtitle: A fun web project
-date: '2021-10-13'
+date: '0002-10-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
