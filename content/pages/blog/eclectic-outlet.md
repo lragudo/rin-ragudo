@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+image: /images/thumbnail.png
 ---
 I love playing tabletop games with friends and family. It’s an easy way for me to connect with others. However, your first time playing a new game can be difficult and the instructions are often long and complicated. I was inspired by the creators of Exploding Kittens and their animated instructions for all of their games.
 
