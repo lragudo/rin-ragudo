@@ -26,7 +26,7 @@ sections:
       - input_type: text
         name: Subject
         label: Subject
-        default_value: Please select
+        default_value: What
         options:
           - Branding
           - Design
