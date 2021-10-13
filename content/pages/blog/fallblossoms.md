@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Fall Blossoms Coloring Book
 subtitle: lorem-ipsum
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
