@@ -1,6 +1,6 @@
 ---
 title: Eclectic Outlet
-subtitle: lorem-ipsum
+subtitle: 'Card Game with '
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
