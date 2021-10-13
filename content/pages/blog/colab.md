@@ -1,7 +1,7 @@
 ---
 title: CoLab Website
 subtitle: Senior Capstone Project for the EWU Design Department
-date: '2021-12-01'
+date: '2021-12-10'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
