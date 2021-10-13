@@ -61,15 +61,20 @@ sections:
           ###### Spark AR
       - title: Languages
         image: images/service-3.svg
-        content: |+
-          *   Java Script
-          *   React
-          *   HTML
-          *   CSS
-          *   SASS
-          *   Java
-          *   Python
+        content: |
+          ###### Java Script
 
+          ###### React
+
+          ###### HTML
+
+          ###### CSS
+
+          ###### SASS
+
+          ###### Java
+
+          ###### Python
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
