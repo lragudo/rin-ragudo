@@ -4,7 +4,7 @@ subtitle: EWU Design Department
 date: '2020-12-11'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: the catalyst buliding with
+  - image_alt: the catalyst buliding with an orange background
     caption: lorem-ipsum
     width: regular
     type: image_section
