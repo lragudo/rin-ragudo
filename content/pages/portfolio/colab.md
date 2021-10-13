@@ -1,6 +1,6 @@
 ---
 title: CoLab Website
-subtitle: lorem-ipsum
+subtitle: EWU Design Department
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections: []
