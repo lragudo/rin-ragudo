@@ -16,7 +16,7 @@ sections:
       children's coloring book. 
     type: text_section
   - image_alt: lorem-ipsum
-    width: wide
+    width: regular
     type: image_section
     image: /images/thumbnail-de26aaad.png
 seo:
