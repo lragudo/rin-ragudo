@@ -30,7 +30,7 @@ sections:
           - Branding
           - Design
           - Digital
-        default_value: Your re
+        default_value: Your reason for contacting me
       - input_type: textarea
         name: message
         label: Message
