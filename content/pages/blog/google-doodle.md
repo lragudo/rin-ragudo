@@ -1,7 +1,7 @@
 ---
 title: Google Doodle
 subtitle: lorem-ipsum
-date: '2020-03-16'
+date: '2020-03-20'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
