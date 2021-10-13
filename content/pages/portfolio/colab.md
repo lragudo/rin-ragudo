@@ -1,7 +1,7 @@
 ---
 title: CoLab Website
 subtitle: EWU Design Department
-date: '2021-12-01'
+date: '0002-12-10'
 thumb_image_alt: lorem-ipsum
 sections: []
 seo:
