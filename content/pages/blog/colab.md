@@ -12,9 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+I led a small team of three designers in this project. Our goal was to create a visual identity and website for the CoLab located in the Catalyst building at Eastern Washington University. The space is now named the Innovation Hub. The website provides a place for events and informational material about the space. 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+EWU CoLab Site <https://ewucolab.netlify.app/home/> 
