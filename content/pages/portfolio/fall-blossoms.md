@@ -4,6 +4,10 @@ subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
+  - image_alt: lorem-ipsum
+    width: regular
+    type: image_section
+    image: /images/thumbnail-de26aaad.png
   - content: >
       I created this coloring book for myself, my friends, and Instagram
       followers. A common problem that myself and my friends usually had with
@@ -13,10 +17,6 @@ sections:
       be overwhelmed, but complicated enough so that it did not feel like a
       children's coloring book. 
     type: text_section
-  - image_alt: lorem-ipsum
-    width: regular
-    type: image_section
-    image: /images/thumbnail-de26aaad.png
 seo:
   title: ''
   description: ''
