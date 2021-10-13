@@ -1,5 +1,5 @@
 ---
-title: Journal
+title: Portfolio
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
