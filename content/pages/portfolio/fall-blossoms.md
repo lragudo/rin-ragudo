@@ -18,7 +18,7 @@ sections:
       children's coloring book. 
     type: text_section
   - image_alt: lorem-ipsum
-    caption: C
+    caption: coloring page
     width: regular
     type: image_section
     image: /images/coloring1.PNG
