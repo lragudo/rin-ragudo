@@ -1,6 +1,6 @@
 ---
 title: Eclectic Outlet
-subtitle: Card Game with digital instructions
+subtitle: A card game with digital instructions
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
