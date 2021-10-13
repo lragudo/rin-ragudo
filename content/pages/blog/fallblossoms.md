@@ -4,7 +4,6 @@ subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
