@@ -15,7 +15,9 @@ thumb_image: /images/thumbnails.jpg
 ---
 These material were creates during the American Advertising Federation's 24hr Create event. I led a team of four people to design collateral for the Spokane Humane Society's event, Parade of Paws. Although my team's design was not chosen as the winner, I decided the day after the event to redesigned some of the collateral after receiving feedback from local design professionals at the event.
 
-![](/images/parade1.png)
+
+
+![](/images/thumbnails.jpg)
 
 
 
@@ -34,4 +36,3 @@ These material were creates during the American Advertising Federation's 24hr Cr
 ![](/images/parade9.png)
 
 ![](/images/parade10.png)
-
