@@ -83,6 +83,18 @@ sections:
       - image_alt: lorem-ipsum
         actions: []
         title: Experiance
+        content: |
+          ###### Responsive Web Design
+
+          ###### Version Control
+
+          ###### Wireframes
+
+          ###### Prototyping
+
+          ###### Front End Design
+
+          ###### Atomic Design Process
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
