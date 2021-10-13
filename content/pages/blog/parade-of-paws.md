@@ -1,7 +1,7 @@
 ---
 title: Parade of Paws
 subtitle: 'American Advertising Federation Create Event (Spokane, WA)'
-date: '2020-10-18'
+date: '2020-10-19'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
