@@ -19,4 +19,6 @@ I love playing tabletop games with friends and family. It’s an easy way for me
 Eclectic Outlet is a card game that is fun and quick for teenagers and young adults. This game is also intended to be accessible to anyone as the
 cards are downloadable to print and the instructions are online. I went through three card deck prototypes and several rounds of play testing with different rules.
 
+![](/images/eclectic5.jpg)
+
 ![](/images/eclectic3.jpg)
