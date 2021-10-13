@@ -3,7 +3,7 @@ title: 'Fall Blossoms '
 subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: Fall Blossoms Coloring book with flowers.
 seo:
   title: ''
   description: ''
