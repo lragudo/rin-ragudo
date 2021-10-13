@@ -1,7 +1,7 @@
 ---
 title: Communications & Design Internship
 subtitle: at Faith Bible Church
-date: '2020-03-09'
+date: '2020-03-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
