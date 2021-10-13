@@ -10,4 +10,5 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: /images/thumbnail-65e181a9.png
 ---
