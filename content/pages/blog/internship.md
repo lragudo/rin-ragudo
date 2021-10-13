@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/thumb.jpg
+image: /images/easter2.jpg
 ---
 ## Lorem ipsum
 
