@@ -7,6 +7,14 @@ sections:
     title: Rin Ragudo
     content: |
       Graphic, UX, & Web Designer
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 3
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
   - type: grid_section
     section_id: services
     title: Skills
@@ -85,13 +93,5 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 3
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: portfolio_section
 layout: advanced
 ---
