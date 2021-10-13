@@ -88,7 +88,7 @@ sections:
 
           - dolor sit amet
         actions: []
-        title: E
+        title: Experiance
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
