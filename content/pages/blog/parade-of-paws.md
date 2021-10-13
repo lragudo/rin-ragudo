@@ -12,9 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+These material were creates during the American Advertising Federation's 24hr Create event. I led a team of four people to design collateral for the Spokane Humane Society's event, Parade of Paws. Although my team's design was not chosen as the winner, I decided the day after the event to redesigned some of the collateral after receiving feedback from local design professionals at the event.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+![](/images/parade1.png)![](/images/parade2.png)![](/images/parade3.png)![](/images/parade4.png)![](/images/parade5.png)![](/images/parade6.png)![](/images/parade7.png)![](/images/parade8.png)![](/images/parade9.png)![](/images/parade10.png)
