@@ -88,6 +88,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        title: E
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
