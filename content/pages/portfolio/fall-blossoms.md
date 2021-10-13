@@ -4,7 +4,7 @@ subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: lorem-ipsum
+  - image_alt: front covet
     width: regular
     type: image_section
     image: /images/thumbnail-de26aaad.png
