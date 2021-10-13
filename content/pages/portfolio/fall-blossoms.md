@@ -17,7 +17,7 @@ sections:
       be overwhelmed, but complicated enough so that it did not feel like a
       children's coloring book. 
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: coloring page
     width: regular
     type: image_section
     image: /images/coloring1.PNG
