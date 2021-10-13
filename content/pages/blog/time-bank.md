@@ -1,6 +1,6 @@
 ---
 title: Skill Share
-subtitle: lorem-ipsum
+subtitle: Branding Guide for Airway Hieghts Timebank
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
