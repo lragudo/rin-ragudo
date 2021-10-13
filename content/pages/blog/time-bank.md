@@ -17,3 +17,11 @@ Design guidelines for the new timebank for the Airway Heights community. Timeban
 handouts, and their timebanking app.
 
 issuu: https://issuu.com/lillian.ragudo/docs/designguidelines
+
+![](/images/skill1.png)
+
+![](/images/skill2.png)
+
+![](/images/skill3.png)
+
+![](/images/skill4.png)
