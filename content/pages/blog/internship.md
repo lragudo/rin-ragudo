@@ -14,9 +14,7 @@ layout: post
 thumb_image: /images/thumb.jpg
 image: /images/easter2.jpg
 ---
-## Lorem ipsum
+I worked on several projects with FBC’s Communication Director, Seth Weber. My work included motion graphics, booklet covers, logo and illustrations for the Youth Winter Camp, and illustrations for Sermons and handouts.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
