@@ -36,7 +36,7 @@ sections:
     title: Skills
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Soft
         image: images/service-1.svg
         content: |-
           - Research and insight
