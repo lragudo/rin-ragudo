@@ -95,6 +95,7 @@ sections:
           ###### Front End Design
 
           ###### Atomic Design Process
+        image: /images/cta.svg
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
