@@ -30,6 +30,7 @@ sections:
           - Branding
           - Design
           - Digital
+        default_value: Your re
       - input_type: textarea
         name: message
         label: Message
