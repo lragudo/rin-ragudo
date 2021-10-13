@@ -24,7 +24,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: text
-        name: subject
+        name: Subject
         label: What services are you looking for?
         default_value: Please select
         options:
