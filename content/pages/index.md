@@ -90,13 +90,7 @@ sections:
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
+    actions: []
     type: posts_section
 layout: advanced
 ---
