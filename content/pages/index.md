@@ -49,16 +49,14 @@ sections:
           - Communication strategy
       - title: Tools
         image: images/service-2.svg
-        content: >
-          ###### Adobe Creative Cloud (Ilustrator, Indesign, Photoshop, After
-          Effects, Premier Pro)&#xA;
+        content: |
+          ###### Adobe Creative Cloud 
 
+          (Ilustrator, Indesign, Photoshop, After Effects, Premier Pro)
 
-          ###### Figma&#xA;
+          ###### Figma
 
-
-          ###### Protopie&#xA;
-
+          ###### Protopie
 
           ###### Spark AR
       - title: Languages
