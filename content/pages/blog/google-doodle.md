@@ -12,4 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-In this project I created a google doodle for International Tabletop Day. The project tested my skills and understanding of CSS animation and using APIs such as GSAP. 
+In this project I created a google doodle for International Tabletop Day. The project tested my skills and understanding of CSS animation and using APIs such as GSAP.
+
+https://lragudo.github.io/google-doodle/
