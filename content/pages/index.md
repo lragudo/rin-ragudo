@@ -74,8 +74,7 @@ sections:
           ###### Java
 
           ###### Python
-      - subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
