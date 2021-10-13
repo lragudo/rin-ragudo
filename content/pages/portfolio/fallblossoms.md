@@ -1,6 +1,6 @@
 ---
 title: Fall Blossoms
-subtitle: lorem-ipsum
+subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections: []
