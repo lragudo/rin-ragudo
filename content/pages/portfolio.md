@@ -8,7 +8,7 @@ sections:
     projects_number: 10
     view_all_url: '#'
     type: portfolio_section
-    view_all_label: Fall Bl
+    view_all_label: Learn More
 seo:
   title: ''
   description: ''
