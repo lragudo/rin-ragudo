@@ -16,6 +16,7 @@ sections:
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/thumbnail-de26aaad.png
 seo:
   title: ''
   description: ''
