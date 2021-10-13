@@ -12,7 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/thumbnail-fba5dfe0.jpg
-image: /images/google1.png
+image: /images/thumbnail-fba5dfe0.jpg
 ---
 In this project I created a google doodle for International Tabletop Day. The project tested my skills and understanding of CSS animation and using APIs such as GSAP.
 
