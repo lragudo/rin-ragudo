@@ -21,7 +21,7 @@ sections:
     width: regular
     type: image_section
     image: /images/coloring1.PNG
-  - image_alt: lorem-ipsum
+  - image_alt: Daisy coloring page
     caption: lorem-ipsum
     width: regular
     type: image_section
