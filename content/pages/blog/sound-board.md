@@ -12,9 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+This is project that I did for fun to create a custom sound board. I like to involve people in my community in my projects, so all sounds were suggestions from my Instagram followers.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+soundboard site https://lillianrosedesign-soundboard.netlify.app/
