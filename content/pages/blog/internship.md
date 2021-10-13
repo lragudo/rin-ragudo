@@ -1,5 +1,5 @@
 ---
-title: 'Communication '
+title: Communication Internshi
 subtitle: lorem-ipsum
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
