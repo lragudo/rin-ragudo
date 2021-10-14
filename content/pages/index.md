@@ -25,7 +25,7 @@ sections:
         style: icon
         icon: instagram
         new_window: true
-        no_follow: false
+        no_follow: true
       - label: lorem-ipsum
         url: '#'
         style: link
