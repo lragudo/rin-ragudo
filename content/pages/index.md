@@ -25,7 +25,6 @@ sections:
       www.QueerChristianFAQ.com
   - section_id: lorem-ipsum
     title: Portfolio
-    subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 3
     view_all_label: lorem-ipsum
