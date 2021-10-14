@@ -29,7 +29,7 @@ sections:
     width: regular
     type: image_section
     image: /images/parade2.png
-  - image_alt: lorem-ipsum
+  - image_alt: '8.11 x '
     caption: lorem-ipsum
     width: regular
     type: image_section
