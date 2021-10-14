@@ -4,7 +4,7 @@ subtitle: Branding & materials for the Parade of Paws 2021 event
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: front cover of book
+  - image_alt: Parade of Paws
     width: regular
     type: image_section
     image: /images/thumbnails.jpg
