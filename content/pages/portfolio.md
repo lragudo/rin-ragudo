@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: Portfolio
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 10
     view_all_url: '#'
     type: portfolio_section
