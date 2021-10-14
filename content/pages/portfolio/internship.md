@@ -25,7 +25,7 @@ sections:
     width: regular
     type: image_section
     image: /images/EyesWideOpen_v1.4.png
-  - image_alt: Learning compassion growth guide. Person
+  - image_alt: Learning compassion growth guide. Person holding umbrella over a child
     caption: lorem-ipsum
     width: regular
     type: image_section
