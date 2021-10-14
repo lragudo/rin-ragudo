@@ -30,7 +30,7 @@ sections:
         url: 'https://github.com/lragudo'
         style: icon
         icon: github
-        new_window: false
+        new_window: true
         no_follow: false
       - label: linkedin
         url: 'https://www.linkedin.com/in/rin-ragudo-616050206/'
