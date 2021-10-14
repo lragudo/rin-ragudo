@@ -7,7 +7,7 @@ sections:
   - image_alt: front cover of book
     width: regular
     type: image_section
-    image: /images/thumbnail-de26aaad.png
+    image: /images/thumb.jpg
   - content: >
       I worked on several projects with FBC’s Communication Director, Seth
       Weber. My work included motion graphics, booklet covers, logo and
