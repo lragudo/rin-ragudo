@@ -17,12 +17,8 @@ sections:
       Looking for Lillian Rose Design? The last year or two I have been able to
       understand myself a lot better and have realized that I am gender-fluid.
       Lillian just doesn't feel fit me as a person anymore, so I have changed my
-      name to Rin and use they/them pronouns. Want to learn more about LGBTQ+
-      and why I am still a Christian eventhough those two thing don't seem to
-      fit together? Check out the website I created 
-
-
-      www.QueerChristianFAQ.com
+      name to Rin and use they/them pronouns. So please excuse the transition,
+      changing your name can be a difficult process .
     actions:
       - label: Queer Chrisitian FAQ
         url: www.QueerChristianFAQ.com
