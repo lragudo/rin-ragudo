@@ -24,7 +24,7 @@ sections:
     type: image_section
     image: /images/parade3.png
     image_alt: paw prints and foot prints
-  - image_alt: lorem-ipsum
+  - image_alt: 'Type '
     caption: lorem-ipsum
     width: regular
     type: image_section
