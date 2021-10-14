@@ -13,7 +13,7 @@ sections:
       illustrations for the Youth Winter Camp, and illustrations for Sermons and
       handouts.
     type: text_section
-  - image_alt: coloring page
+  - image_alt: Good Friday
     width: regular
     type: image_section
     image: /images/easter4.jpg
