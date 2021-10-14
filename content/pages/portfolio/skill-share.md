@@ -7,7 +7,7 @@ sections:
   - image_alt: front cover of book
     width: regular
     type: image_section
-    image: /images/thumbnail-de26aaad.png
+    image: /images/thumbnail-83da02f8.jpg
   - content: >
       I created this coloring book for myself, my friends, and Instagram
       followers. A common problem that myself and my friends usually had with
