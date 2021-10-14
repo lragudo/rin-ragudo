@@ -19,7 +19,9 @@
       display: flex;
         justify-content: center;
   }
-  &
+  & .project-body{
+      display: flex;
+  }
   & .text-block{
       background: #333333;
       color: $color-gray-50;
