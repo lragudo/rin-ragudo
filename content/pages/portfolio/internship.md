@@ -21,7 +21,7 @@ sections:
     type: image_section
     image: /images/Screen Shot 2020-03-05 at 10.25.04 AM.png
     image_alt: Church outline filled with photos of plants
-  - image_alt: 'eyes wide open logo. '
+  - image_alt: eyes wide open logo. A story sky with people walking up to a cross
     width: regular
     type: image_section
     image: /images/EyesWideOpen_v1.4.png
