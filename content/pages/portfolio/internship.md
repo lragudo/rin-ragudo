@@ -33,6 +33,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/HSdessert-slide.jpg
 seo:
   title: ''
   description: ''
