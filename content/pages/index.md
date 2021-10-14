@@ -25,7 +25,7 @@ sections:
       www.QueerChristianFAQ.com
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: www.Queer Christian.com
         style: link
         icon: dribbble
         new_window: false
