@@ -33,7 +33,6 @@ sections:
     type: image_section
     image: /images/skill3.png
   - image_alt: flyer mock up
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/skill4.png
