@@ -31,7 +31,7 @@ sections:
   - image_alt: Daisy coloring page. Flowers color pastel pinks and purples.
     width: regular
     type: image_section
-    image: /images/coloring2.PNG
+    image: /images/skill3.png
 seo:
   title: ''
   description: ''
