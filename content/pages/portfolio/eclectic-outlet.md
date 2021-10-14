@@ -7,7 +7,7 @@ sections:
   - image_alt: Eclectic Outlet app mockup
     width: regular
     type: image_section
-    image: /images/thumbnail-de26aaad.png
+    image: /images/thumbnail.png
   - content: >
       I love playing tabletop games with friends and family. It’s an easy way
       for me to connect with others. However, your first time playing a new game
