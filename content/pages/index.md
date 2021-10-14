@@ -81,7 +81,7 @@ sections:
     title: Let’s Work Together!
     content: >
       Say hi at rin.ragudo@gmail.com or tell us more about your project by
-      getting started below.
+      getting started below.![](/images/pattern5.png)
     actions:
       - label: Let's start
         url: /contact
