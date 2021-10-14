@@ -75,9 +75,7 @@ sections:
 
           ###### SASS
 
-          ###### Java
-
-          ###### Python
+          ######
       - image_alt: lorem-ipsum
         actions: []
         title: Experiance
