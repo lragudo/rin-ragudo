@@ -128,8 +128,7 @@
     }
 
     .button-group a:not(.button),
-    .card__body a:not(.button),
-    .text-block a:not(.button) {
+    .card__body a:not(.button) {
       border-bottom-color: rgba(map-get($accent-colors, $accent), .3);
       color: map-get($accent-colors, $accent);
     }
