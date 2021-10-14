@@ -55,6 +55,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/parade10.png
 seo:
   title: ''
   description: ''
