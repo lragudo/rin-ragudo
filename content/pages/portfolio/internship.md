@@ -25,7 +25,7 @@ sections:
     width: regular
     type: image_section
     image: /images/EyesWideOpen_v1.4.png
-    caption: Winter Camp 2020 Logo
+    caption: Youth Winter Camp 2020 Logo
   - image_alt: Learning compassion growth guide. Person holding umbrella over a child
     width: regular
     type: image_section
