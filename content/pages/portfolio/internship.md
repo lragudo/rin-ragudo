@@ -25,6 +25,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/EyesWideOpen_v1.4.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
