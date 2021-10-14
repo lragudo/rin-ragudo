@@ -59,7 +59,7 @@ h1 {
     padding: 0;
     text-transform: uppercase;
     color: #333333;
-    background: linear-gradient( to bottom, transparent 0%, transparent 0%, $color-gray-50: 0%, var(--primaryColor1)100% );
+    background: linear-gradient( to bottom, transparent 0%, transparent 0%, $color-gray-50: 0%, $color-gray-50: 100% );
     background-repeat: no-repeat;
     background-size: 60% 98%;
     background-position: bottom left;
