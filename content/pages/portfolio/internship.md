@@ -30,7 +30,6 @@ sections:
     width: regular
     type: image_section
   - image_alt: High School Dessert Night Slide
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/HSdessert-slide.jpg
