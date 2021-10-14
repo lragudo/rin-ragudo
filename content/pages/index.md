@@ -28,7 +28,7 @@ sections:
     layout_style: tiles
     projects_number: 3
     view_all_label: lorem-ipsum
-    view_all_url: '#'
+    view_all_url: /
     type: portfolio_section
   - type: grid_section
     section_id: services
