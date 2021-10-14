@@ -20,7 +20,7 @@ sections:
   - image_alt: Daisy coloring page. Flowers color pastel pinks and purples.
     width: regular
     type: image_section
-    image: /images/coloring2.PNG
+    image: /images/Screen Shot 2020-03-05 at 10.25.04 AM.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
