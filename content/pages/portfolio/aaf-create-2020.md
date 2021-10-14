@@ -43,7 +43,6 @@ sections:
     type: image_section
     image: /images/parade6.png
   - image_alt: lorem-ipsum
-    caption: social media posts
     width: regular
     type: image_section
     image: /images/parade7.png
