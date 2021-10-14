@@ -28,7 +28,7 @@ sections:
         no_follow: true
       - label: Github
         url: '#'
-        style: link
+        style: icon
         icon: github
         new_window: false
         no_follow: false
