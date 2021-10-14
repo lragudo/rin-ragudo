@@ -26,7 +26,7 @@ sections:
   - section_id: lorem-ipsum
     title: Portfolio
     layout_style: tiles
-    projects_number: 3
+    projects_number: 4
     view_all_label: lorem-ipsum
     view_all_url: /colab
     type: portfolio_section
