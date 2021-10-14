@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: Portfolio
     layout_style: tiles
-    projects_number: 10
+    projects_number: 12
     view_all_url: '#'
     type: portfolio_section
     view_all_label: Check it out!
