@@ -30,6 +30,7 @@ sections:
     width: regular
     type: image_section
     image: /images/LearningCompassion_v2 copy.png
+    caption: Small Group Guide Cover
   - image_alt: High School Dessert Night Slide
     width: regular
     type: image_section
