@@ -7,7 +7,7 @@ sections:
   - image_alt: front cover of book
     width: regular
     type: image_section
-    image: /images/thumbnail-fba5dfe0.jpg
+    image: /images/google1.png
   - content: >
       In this project I created a google doodle for International Tabletop Day.
       The project tested my skills and understanding of CSS animation and using
