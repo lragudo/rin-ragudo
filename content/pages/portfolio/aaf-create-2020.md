@@ -42,7 +42,7 @@ sections:
     width: regular
     type: image_section
     image: /images/parade6.png
-  - image_alt: lorem-ipsum
+  - image_alt: social media posts
     width: regular
     type: image_section
     image: /images/parade7.png
