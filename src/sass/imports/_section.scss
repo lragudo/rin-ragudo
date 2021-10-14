@@ -1,8 +1,5 @@
 .section {
     #services .grid {
-    &:not(:first-child) {
-      margin-top: 2.5em;
-    }
     & .card-body{
           background: #333;
       }
