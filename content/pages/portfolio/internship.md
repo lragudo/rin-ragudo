@@ -7,7 +7,7 @@ sections:
   - image_alt: Love changes everything
     width: regular
     type: image_section
-    image: /images/thumb.jpg
+    image: /images/easter2.jpg
   - content: >
       I worked on several projects with FBC’s Communication Director, Seth
       Weber. My work included motion graphics, booklet covers, logo and
