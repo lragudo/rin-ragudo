@@ -30,7 +30,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/coloring2.PNG
+    image: /images/eclectic3.jpg
 seo:
   title: ''
   description: ''
