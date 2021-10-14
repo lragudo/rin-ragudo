@@ -1,6 +1,6 @@
 ---
 title: Google Doodle
-subtitle: Coloring Book
+subtitle: A fun web animation project.
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
