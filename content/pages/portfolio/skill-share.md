@@ -24,7 +24,7 @@ sections:
       guides.
 
     type: text_section
-  - image_alt: coloring page
+  - image_alt: Logo
     width: regular
     type: image_section
     image: /images/skill2.png
