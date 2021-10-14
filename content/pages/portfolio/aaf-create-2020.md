@@ -24,7 +24,7 @@ sections:
     type: image_section
     image: /images/parade3.png
     image_alt: paw prints and foot prints
-  - image_alt: 'Type '
+  - image_alt: Type hierarchy and color pallet or orange
     caption: lorem-ipsum
     width: regular
     type: image_section
