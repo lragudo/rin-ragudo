@@ -1,6 +1,6 @@
 ---
 title: Sound Board
-subtitle: A fun web animation project.
+subtitle: A fun web project
 date: '2021-10-13'
 thumb_image_alt: google
 sections:
