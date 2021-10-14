@@ -1,6 +1,6 @@
 ---
 title: Communication & Design Internship
-subtitle: Coloring Book
+subtitle: At Faith Bible Church
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
