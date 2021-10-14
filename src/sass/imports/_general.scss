@@ -55,11 +55,11 @@ h6 {
 
 h1 {
   color: var(--dark1);
-background: linear-gradient( to bottom, transparent 0%, transparent 0%, var(--primaryColor1) 0%, var(--primaryColor1)100% );
-background-repeat: no-repeat;
-background-size: 60% 98%;
-background-position: bottom left;
-box-shadow: -1rem 1.1rem 0 -.4rem var(--primaryColor2);
+    background: linear-gradient( to bottom, transparent 0%, transparent 0%, var(--primaryColor1) 0%, var(--primaryColor1)100% );
+    background-repeat: no-repeat;
+    background-size: 60% 98%;
+    background-position: bottom left;
+    box-shadow: -1rem 1.1rem 0 -.4rem var(--primaryColor2);
 
   @media only screen and (max-width: 600px) {
     font-size: 2.22222em;
