@@ -23,7 +23,7 @@ sections:
       - label: Queer Chrisitian FAQ
         url: www.QueerChristianFAQ.com
         style: icon
-        icon: dribbble
+        icon: instagram
         new_window: true
         no_follow: false
       - label: lorem-ipsum
