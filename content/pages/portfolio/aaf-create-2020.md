@@ -28,6 +28,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/parade2.png
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
