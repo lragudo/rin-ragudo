@@ -7,7 +7,7 @@ sections:
   - image_alt: front cover of book
     width: regular
     type: image_section
-    image: /images/thumbnail-de26aaad.png
+    image: /images/thumbnails.jpg
   - content: >
       These material were creates during the American Advertising Federation's
       24hr Create event. I led a team of four people to design collateral for
