@@ -54,6 +54,13 @@ h6 {
 }
 
 h1 {
+        font-size: 2rem;
+    margin: 0 1rem 0 0;
+    padding: 0;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    text-transform: uppercase;
+}
     color: var(--dark1);
     background: linear-gradient( to bottom, transparent 0%, transparent 0%, var(--primaryColor1) 0%, var(--primaryColor1)100% );
     background-repeat: no-repeat;
