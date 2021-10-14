@@ -25,7 +25,7 @@ sections:
       www.QueerChristianFAQ.com
     actions:
       - label: Queer Chrisitian FAQ
-        url: www.QueerChristian.com
+        url: www.QueerChristianFAQ.com
         style: link
         icon: dribbble
         new_window: false
