@@ -35,6 +35,7 @@ sections:
     width: regular
     type: image_section
     image: /images/HSdessert-slide.jpg
+    caption: Slide and Website image for Highsch
 seo:
   title: ''
   description: ''
