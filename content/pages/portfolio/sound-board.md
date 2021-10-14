@@ -4,7 +4,7 @@ subtitle: A fun web animation project.
 date: '2021-10-13'
 thumb_image_alt: google
 sections:
-  - image_alt: sound board with 5 sounds
+  - image_alt: 'sound board with 5 sounds (clap, cymbal, footsteps, spooky, bell'
     width: regular
     type: image_section
     image: /images/thumbnail-e4ae1a88.png
