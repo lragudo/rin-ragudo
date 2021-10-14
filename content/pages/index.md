@@ -39,19 +39,17 @@ sections:
       - title: Soft
         image: images/service-1.svg
         content: |
-          ###### Creative Problem Solving
+          ###### Responsive Web Design
 
-          ###### Organized
+          ###### Version Control
 
-          ###### Leadership
+          ###### Wireframes
 
-          ###### Flexible 
+          ###### Prototyping
 
-          ###### Critical Thinking
+          ###### Front End Design
 
-          ###### Collaborative
-
-          ###### Communication
+          ###### Atomic Design Process
       - title: Tools
         image: images/service-2.svg
         content: |
