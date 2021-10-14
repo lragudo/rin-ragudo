@@ -36,7 +36,7 @@ sections:
     title: Skills
     col_number: three
     grid_items:
-      - title: Soft
+      - title: Design
         image: images/service-1.svg
         content: |
           ###### Responsive Web Design
