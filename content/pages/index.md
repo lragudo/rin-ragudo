@@ -36,7 +36,7 @@ sections:
         url: 'https://www.linkedin.com/in/rin-ragudo-616050206/'
         style: icon
         icon: linkedin
-        new_window: false
+        new_window: true
         no_follow: false
   - section_id: lorem-ipsum
     title: Portfolio
