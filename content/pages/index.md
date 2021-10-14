@@ -26,7 +26,7 @@ sections:
         icon: instagram
         new_window: true
         no_follow: true
-      - label: lorem-ipsum
+      - label: Github
         url: '#'
         style: link
         icon: dribbble
