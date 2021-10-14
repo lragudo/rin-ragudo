@@ -1,5 +1,5 @@
 ---
-title: Fall Blossoms
+title: Parade of Paws
 subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
