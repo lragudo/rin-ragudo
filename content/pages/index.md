@@ -28,7 +28,7 @@ sections:
         url: www.QueerChristianFAQ.com
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
   - section_id: lorem-ipsum
     title: Portfolio
