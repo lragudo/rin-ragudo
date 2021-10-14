@@ -22,7 +22,7 @@ sections:
     actions:
       - label: Queer Chrisitian FAQ
         url: www.QueerChristianFAQ.com
-        style: button
+        style: icon
         icon: dribbble
         new_window: true
         no_follow: false
