@@ -9,14 +9,10 @@ sections:
     type: image_section
     image: /images/thumbnail-de26aaad.png
   - content: >
-      I created this coloring book for myself, my friends, and Instagram
-      followers. A common problem that myself and my friends usually had with
-      coloring books for adults was that they can be so intricate and detailed
-      that you don't even want to start or finish them. In the end many are the
-      opposite of relaxing. So I purposely made the pages simple enough to not
-      be overwhelmed, but complicated enough so that it did not feel like a
-      children's coloring book. All my illustrations are based off of photos I
-      took at a local park a few days before the first snow of the season.
+      I worked on several projects with FBC’s Communication Director, Seth
+      Weber. My work included motion graphics, booklet covers, logo and
+      illustrations for the Youth Winter Camp, and illustrations for Sermons and
+      handouts.
     type: text_section
   - image_alt: coloring page
     width: regular
