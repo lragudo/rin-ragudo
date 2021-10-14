@@ -37,7 +37,7 @@ sections:
     width: regular
     type: image_section
     image: /images/parade5.png
-  - image_alt: lorem-ipsum
+  - image_alt: social media mocjups
     caption: lorem-ipsum
     width: regular
     type: image_section
