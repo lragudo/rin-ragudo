@@ -23,6 +23,7 @@ sections:
   - width: regular
     type: image_section
     image: /images/parade3.png
+    image_alt: paw prints and foot prints
 seo:
   title: ''
   description: ''
