@@ -6,7 +6,10 @@ sections:
     section_id: hero
     title: Rin Ragudo
     content: >
-      ##### Graphic, UX, & Web Designer
+      # Rin Ragudo
+
+
+      Graphic, UX, & Web Designer
 
 
       ![](/images/lillian.jpg)
