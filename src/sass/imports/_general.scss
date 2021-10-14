@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: $accent-color;
   text-decoration: none;
   -webkit-transition: color .3s, opacity .3s;
   transition: color .3s, opacity .3s;
