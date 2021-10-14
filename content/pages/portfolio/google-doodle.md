@@ -13,10 +13,6 @@ sections:
       The project tested my skills and understanding of CSS animation and using
       APIs such as GSAP. 
     type: text_section
-  - image_alt: coloring page
-    width: regular
-    type: image_section
-    image: /images/coloring1.PNG
 seo:
   title: ''
   description: ''
