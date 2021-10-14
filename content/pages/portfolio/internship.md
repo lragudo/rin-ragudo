@@ -28,4 +28,5 @@ seo:
   extra: []
 layout: project
 thumb_image: /images/thumb.jpg
+thumb_image_alt: Love changes everything
 ---
