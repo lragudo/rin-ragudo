@@ -9,14 +9,18 @@ sections:
     type: image_section
     image: /images/thumbnail-de26aaad.png
   - content: >
-      I created this coloring book for myself, my friends, and Instagram
-      followers. A common problem that myself and my friends usually had with
-      coloring books for adults was that they can be so intricate and detailed
-      that you don't even want to start or finish them. In the end many are the
-      opposite of relaxing. So I purposely made the pages simple enough to not
-      be overwhelmed, but complicated enough so that it did not feel like a
-      children's coloring book. All my illustrations are based off of photos I
-      took at a local park a few days before the first snow of the season.
+      I love playing tabletop games with friends and family. It’s an easy way
+      for me to connect with others. However, your first time playing a new game
+      can be difficult and the instructions are often long and complicated. I
+      was inspired by the creators of Exploding Kittens and their animated
+      instructions for all of their games.
+
+
+      Eclectic Outlet is a card game that is fun and quick for teenagers and
+      young adults. This game is also intended to be accessible to anyone as the
+      cards are downloadable to print and the instructions are online. I went
+      through three card deck prototypes and several rounds of play testing with
+      different rules. 
     type: text_section
   - image_alt: coloring page
     width: regular
