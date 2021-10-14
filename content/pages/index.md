@@ -27,7 +27,7 @@ sections:
         new_window: true
         no_follow: true
       - label: Github
-        url: '#'
+        url: 'https://github.com/lragudo'
         style: icon
         icon: github
         new_window: false
