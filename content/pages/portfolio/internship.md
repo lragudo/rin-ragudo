@@ -1,5 +1,5 @@
 ---
-title: Communication & Design Internship
+title: Internship
 subtitle: At Faith Bible Church
 date: '2021-10-13'
 sections:
