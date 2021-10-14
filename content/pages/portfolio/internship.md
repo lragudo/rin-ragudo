@@ -21,6 +21,10 @@ sections:
     width: regular
     type: image_section
     image: /images/coloring2.PNG
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: ''
   description: ''
