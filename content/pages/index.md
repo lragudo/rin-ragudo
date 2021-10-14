@@ -19,7 +19,7 @@ sections:
       Lillian just doesn't feel fit me as a person anymore, so I have changed my
       name to Rin and use they/them pronouns. Want to learn more about LGBTQ+
       and why I am still a Christian eventhough those two thing don't seem to
-      fit together? Check out the website I created QueerChristianFAQ.com
+      fit together? Check out the website I created www.QueerChristianFAQ.com
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
