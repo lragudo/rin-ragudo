@@ -28,7 +28,7 @@ sections:
     width: regular
     type: image_section
     image: /images/skill2.png
-  - image_alt: Daisy coloring page. Flowers color pastel pinks and purples.
+  - image_alt: 'type hierarchy '
     width: regular
     type: image_section
     image: /images/skill3.png
