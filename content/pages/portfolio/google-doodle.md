@@ -2,7 +2,7 @@
 title: Google Doodle
 subtitle: A fun web animation project.
 date: '2021-10-13'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: google
 sections:
   - image_alt: front cover of book
     width: regular
