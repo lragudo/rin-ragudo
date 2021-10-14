@@ -5,8 +5,16 @@ sections:
   - type: hero_section
     section_id: hero
     title: Rin Ragudo
-    content: |
-      Graphic, UX, & Web Designer
+    content: >
+      ##### Graphic, UX, & Web Designer
+
+
+      Looking for Lillian Rose Design? The last year or two I have been able to
+      understand myself a lot better and have realized that I am gender-fluid.
+      Lillian just doesn't feel fit me as a person anymore, so I have changed my
+      name to Rin and use they/them pronouns. Want to learn more about LGBTQ+
+      and why I am still a Christian eventhough those two thing don't seem to
+      fit together? Check out the website I created QueerChristianFAQ.com
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
