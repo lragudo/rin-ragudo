@@ -35,7 +35,7 @@ sections:
     width: regular
     type: image_section
     image: /images/HSdessert-slide.jpg
-    caption: Power point slide and Website image for Highschool event.
+    caption: Power point slide and website image for Highschool event.
 seo:
   title: ''
   description: ''
