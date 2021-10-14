@@ -29,7 +29,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-  - image_alt: lorem-ipsum
+  - image_alt: High School Dessert Night Slide
     caption: lorem-ipsum
     width: regular
     type: image_section
