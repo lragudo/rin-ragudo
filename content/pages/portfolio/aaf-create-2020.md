@@ -1,5 +1,5 @@
 ---
-title: Parade of Paws
+title: AAF Create 2020
 subtitle: Coloring Book
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
