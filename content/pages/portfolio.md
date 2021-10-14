@@ -8,7 +8,7 @@ sections:
     projects_number: 10
     view_all_url: '#'
     type: portfolio_section
-    view_all_label: Check It!
+    view_all_label: Check It Out
 seo:
   title: ''
   description: ''
