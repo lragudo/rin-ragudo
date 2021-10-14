@@ -4,7 +4,7 @@ subtitle: Branding Guidelines for Airway Height's Timebank
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: front cover of book
+  - image_alt: Skill Reservior
     width: regular
     type: image_section
     image: /images/thumbnail-83da02f8.jpg
