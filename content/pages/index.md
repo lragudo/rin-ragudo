@@ -32,7 +32,7 @@ sections:
         icon: github
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: linkedin
         url: 'https://www.linkedin.com/in/rin-ragudo-616050206/'
         style: link
         icon: dribbble
