@@ -29,7 +29,7 @@ sections:
       - label: Github
         url: '#'
         style: link
-        icon: dribbble
+        icon: github
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
