@@ -1,6 +1,6 @@
 ---
 title: Eclectic Outlet
-subtitle: Coloring Book
+subtitle: A card game with digital download and rules.
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
