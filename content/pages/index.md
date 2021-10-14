@@ -21,7 +21,7 @@ sections:
       changing your name can be a difficult process .
     actions:
       - label: Queer Chrisitian FAQ
-        url: www.QueerChristianFAQ.com
+        url: 'https://www.instagram.com/lillianrose.design/'
         style: icon
         icon: instagram
         new_window: true
