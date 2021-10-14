@@ -29,7 +29,6 @@ sections:
     type: image_section
     image: /images/parade2.png
   - image_alt: 8.5 x 11 poster
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/parade4.png
