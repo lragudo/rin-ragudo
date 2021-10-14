@@ -4,7 +4,7 @@ subtitle: A card game with digital download and rules.
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: front cover of book
+  - image_alt: Eclectic Outlet app mockup
     width: regular
     type: image_section
     image: /images/thumbnail-de26aaad.png
