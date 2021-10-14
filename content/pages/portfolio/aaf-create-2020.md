@@ -16,7 +16,7 @@ sections:
       redesigned some of the collateral after receiving feedback from local
       design professionals at the event.
     type: text_section
-  - image_alt: coloring page
+  - image_alt: Parade of Paws Logo
     width: regular
     type: image_section
     image: /images/parade1.png
