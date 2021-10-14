@@ -50,7 +50,6 @@ sections:
     type: image_section
     image: /images/parade9.png
   - image_alt: trifold back
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/parade10.png
