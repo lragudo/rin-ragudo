@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Rin Ragudo
     content: >
       # Rin Ragudo
 
