@@ -48,7 +48,7 @@ sections:
     type: image_section
     image: /images/parade7.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Trifold front
     width: regular
     type: image_section
     image: /images/parade9.png
