@@ -24,7 +24,7 @@ sections:
       guides.
 
     type: text_section
-  - image_alt: Logo tyoes
+  - image_alt: Logo types
     width: regular
     type: image_section
     image: /images/skill2.png
