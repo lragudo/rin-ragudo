@@ -33,5 +33,5 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: /images/thumbnail-de26aaad.png
+thumb_image: /images/thumbnail.png
 ---
