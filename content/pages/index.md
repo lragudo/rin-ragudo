@@ -35,7 +35,7 @@ sections:
       - label: linkedin
         url: 'https://www.linkedin.com/in/rin-ragudo-616050206/'
         style: icon
-        icon: dribbble
+        icon: linkedin
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
