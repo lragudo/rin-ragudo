@@ -70,7 +70,8 @@
     &__menu-container {
       margin-left: auto;
     }
-    7 A text-decoration: none;
+        & a {
+            text-decoration: none;
   }
 
   .menu {
