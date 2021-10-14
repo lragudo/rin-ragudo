@@ -33,7 +33,6 @@ sections:
     type: image_section
     image: /images/parade4.png
   - image_alt: 11 x 17 poster mochup
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/parade5.png
