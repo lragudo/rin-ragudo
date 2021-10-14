@@ -25,7 +25,7 @@ sections:
   - image_alt: coloring page
     width: regular
     type: image_section
-    image: /images/coloring1.PNG
+    image: /images/eclectic5.jpg
   - image_alt: Daisy coloring page. Flowers color pastel pinks and purples.
     caption: lorem-ipsum
     width: regular
