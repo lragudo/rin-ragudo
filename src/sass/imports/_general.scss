@@ -54,11 +54,16 @@ h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 2rem;
     margin: 0 1rem 0 0;
     padding: 0;
     text-transform: uppercase;
-    color: $color-gray-50;
+    color: #333333;
+    background: linear-gradient( to bottom, transparent 0%, transparent 0%, $color-gray-50 0%, $color-gray-50 100% );
+    background-repeat: no-repeat;
+    background-size: 60% 98%;
+    background-position: bottom left;
+    box-shadow: -1rem 1.1rem 0 -.4rem $color-accent;
 
   @media only screen and (max-width: 600px) {
     font-size: 2.22222em;
