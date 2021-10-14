@@ -9,9 +9,9 @@ sections:
     type: image_section
     image: /images/google1.png
   - content: >
-      In this project I created a google doodle for International Tabletop Day.
-      The project tested my skills and understanding of CSS animation and using
-      APIs such as GSAP. 
+      This is project that I did for fun to create a custom sound board. I like
+      to involve people in my community in my projects, so all sounds were
+      suggestions from my Instagram followers.
     type: text_section
 seo:
   title: ''
