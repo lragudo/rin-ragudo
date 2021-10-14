@@ -1,6 +1,6 @@
 ---
 title: AAF Create 2020
-subtitle: Coloring Book
+subtitle: Branding & materials for the Parade of Paws 2021 event
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
