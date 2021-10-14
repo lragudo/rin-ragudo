@@ -4,7 +4,7 @@ subtitle: Branding & materials for the Parade of Paws 2021 event
 date: '2021-10-13'
 thumb_image_alt: lorem-ipsum
 sections:
-  - image_alt: Parade of Paws
+  - image_alt: Parade of Paws and illustration of a cat and a dolg walking
     width: regular
     type: image_section
     image: /images/thumbnails.jpg
