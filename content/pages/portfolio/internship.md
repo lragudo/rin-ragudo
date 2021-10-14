@@ -2,7 +2,6 @@
 title: Communication & Design Internship
 subtitle: At Faith Bible Church
 date: '2021-10-13'
-thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: Love changes everything
     width: regular
