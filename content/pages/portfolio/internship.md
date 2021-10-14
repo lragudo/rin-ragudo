@@ -29,6 +29,7 @@ sections:
   - image_alt: Learning compassion growth guide. Person holding umbrella over a child
     width: regular
     type: image_section
+    image: /images/LearningCompassion_v2 copy.png
   - image_alt: High School Dessert Night Slide
     width: regular
     type: image_section
