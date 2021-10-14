@@ -20,7 +20,7 @@ sections:
       name to Rin and use they/them pronouns. So please excuse the transition,
       changing your name can be a difficult process .
     actions:
-      - label: Queer Chrisitian FAQ
+      - label: instagram
         url: 'https://www.instagram.com/lillianrose.design/'
         style: icon
         icon: instagram
