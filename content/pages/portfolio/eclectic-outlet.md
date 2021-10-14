@@ -26,7 +26,7 @@ sections:
     width: regular
     type: image_section
     image: /images/eclectic5.jpg
-  - image_alt: 'a pile of '
+  - image_alt: a pile of cards
     caption: lorem-ipsum
     width: regular
     type: image_section
