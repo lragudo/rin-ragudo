@@ -6,6 +6,10 @@
   min-height: 100vh;
   position: relative;
   background-image: url(/images/pattern5.png);
+  background-attachment: fixed;
+background-position: center center;
+background-repeat: repeat;
+background-size: 400px;
 }
 
 .site-content {
