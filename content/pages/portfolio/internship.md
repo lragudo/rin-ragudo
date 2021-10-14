@@ -22,7 +22,6 @@ sections:
     image: /images/Screen Shot 2020-03-05 at 10.25.04 AM.png
     image_alt: Church outline filled with photos of plants
   - image_alt: lorem-ipsum
-    caption: 'eyes wide open logo. '
     width: regular
     type: image_section
     image: /images/EyesWideOpen_v1.4.png
