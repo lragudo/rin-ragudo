@@ -4,7 +4,7 @@ subtitle: A fun web animation project.
 date: '2021-10-13'
 thumb_image_alt: google
 sections:
-  - image_alt: 'Google with illustrations of '
+  - image_alt: Google with illustrations of d-20 dice and a pencil
     width: regular
     type: image_section
     image: /images/google1.png
