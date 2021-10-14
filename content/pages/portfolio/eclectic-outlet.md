@@ -22,7 +22,7 @@ sections:
       through three card deck prototypes and several rounds of play testing with
       different rules. 
     type: text_section
-  - image_alt: 6 exa
+  - image_alt: 6 example cards
     width: regular
     type: image_section
     image: /images/eclectic5.jpg
