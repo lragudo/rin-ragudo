@@ -1,7 +1,7 @@
 ---
 title: AAF Create 2020
 subtitle: Branding & materials for the Parade of Paws 2021 event
-date: '2021-10-18'
+date: '2020-10-15'
 thumb_image_alt: Parade of Paws
 sections:
   - image_alt: Parade of Paws and illustration of a cat and a dolg walking
