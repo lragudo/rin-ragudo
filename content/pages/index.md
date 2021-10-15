@@ -53,17 +53,19 @@ sections:
       - title: Design
         image: images/service-1.svg
         content: |
-          ###### Responsive Web Design
+          ###### Creative
 
-          ###### Version Control
+          Communication
 
-          ###### Wireframes
+          Leadership
 
-          ###### Prototyping
+          Problem Solving
 
-          ###### Front End Design
+          Flexible
 
-          ###### Atomic Design Process
+          Critical Thinking
+
+          Collaborative
       - title: Tools
         image: images/service-2.svg
         content: |
