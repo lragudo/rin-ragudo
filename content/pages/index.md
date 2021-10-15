@@ -42,7 +42,7 @@ sections:
     title: Portfolio
     layout_style: tiles
     projects_number: 10
-    view_all_label: lorem-ipsum
+    view_all_label: More projects this way!
     view_all_url: /colab
     type: portfolio_section
   - type: grid_section
