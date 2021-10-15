@@ -14,7 +14,7 @@ sections:
       APIs such as GSAP.
 
 
-      \[Doodle Site] (https://lragudo.github.io/google-doodle/)
+      \[Doodle Site]\(https://lragudo.github.io/google-doodle/)
     type: text_section
 seo:
   title: ''
