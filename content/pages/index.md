@@ -51,7 +51,6 @@ sections:
     col_number: three
     grid_items:
       - title: Attributes
-        image: images/service-1.svg
         content: |
           ###### Creative Problem Solving
 
