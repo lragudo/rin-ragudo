@@ -67,15 +67,17 @@ sections:
       - title: Tools
         image: images/service-2.svg
         content: |
-          ###### Adobe Creative Cloud 
+          ###### Logos & Branding
 
-          (Ilustrator, Indesign, Photoshop, After Effects, Premier Pro)
+          ###### User Experiance
 
-          ###### Figma
+          ###### Web
 
-          ###### Protopie
+          ###### Photography
 
-          ###### Spark AR
+          ###### Illustration
+
+          ###### Motion
       - title: Languages
         image: images/service-3.svg
         content: |
