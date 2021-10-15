@@ -53,13 +53,11 @@ sections:
       - title: Attributes
         image: images/service-1.svg
         content: |
-          ###### Creative
+          ###### Creative Problem Solving
 
           ###### Communication
 
           ###### Leadership
-
-          ###### Problem Solving
 
           ###### Flexible
 
