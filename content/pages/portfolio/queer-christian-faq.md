@@ -1,6 +1,6 @@
 ---
 title: Queer christian
-subtitle: A fun web animation project.
+subtitle: A FAQ for the questions my friend and I are tired of answering
 date: '2021-10-13'
 thumb_image_alt: google
 sections:
