@@ -55,17 +55,17 @@ sections:
         content: |
           ###### Creative
 
-          Communication
+          ###### Communication
 
-          Leadership
+          ###### Leadership
 
-          Problem Solving
+          ###### Problem Solving
 
-          Flexible
+          ###### Flexible
 
-          Critical Thinking
+          ###### Critical Thinking
 
-          Collaborative
+          ###### Collaborative
       - title: Tools
         image: images/service-2.svg
         content: |
