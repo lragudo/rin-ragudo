@@ -22,5 +22,5 @@ seo:
   robots: []
   extra: []
 layout: project
-thumb_image: /images/thumbnail-fba5dfe0.jpg
+thumb_image: /images/Group 3.png
 ---
