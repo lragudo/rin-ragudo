@@ -80,7 +80,7 @@ sections:
           ###### Illustration
 
           ###### Motion
-      - title: Languages
+      - title: Tools
         image: images/service-3.svg
         content: |
           ###### Adobe Creative Suite  
