@@ -66,7 +66,7 @@ sections:
           ###### Critical Thinking
 
           ###### Collaborative
-      - title: Tools
+      - title: Design
         image: images/service-2.svg
         content: |
           ###### Logos & Branding
