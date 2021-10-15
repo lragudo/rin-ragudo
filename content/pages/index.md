@@ -50,7 +50,7 @@ sections:
     title: Skills
     col_number: three
     grid_items:
-      - title: Design
+      - title: Attributes
         image: images/service-1.svg
         content: |
           ###### Creative
