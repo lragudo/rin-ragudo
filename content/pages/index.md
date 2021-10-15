@@ -103,7 +103,6 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
     image_alt: Illustration
     bg_color: light
 layout: advanced
