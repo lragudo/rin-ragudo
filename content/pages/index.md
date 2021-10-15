@@ -43,7 +43,7 @@ sections:
     layout_style: tiles
     projects_number: 10
     view_all_label: More projects this way!
-    view_all_url: /colab
+    view_all_url: /portfolio
     type: portfolio_section
   - type: grid_section
     section_id: services
