@@ -7,7 +7,7 @@ sections:
   - image_alt: Google with illustrations of d-20 dice and a pencil
     width: regular
     type: image_section
-    image: /images/google1.png
+    image: /images/Group 3.png
   - content: >
       In this project I created a google doodle for International Tabletop Day.
       The project tested my skills and understanding of CSS animation and using
