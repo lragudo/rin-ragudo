@@ -1,7 +1,7 @@
 ---
 title: Internship
 subtitle: At Faith Bible Church
-date: '0002-03-13'
+date: '2020-03-10'
 sections:
   - image_alt: Love changes everything
     width: regular
