@@ -1,7 +1,7 @@
 ---
 title: Eclectic Outlet
 subtitle: A card game with digital download and rules.
-date: '2021-10-13'
+date: '0002-02-12'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: Eclectic Outlet app mockup
