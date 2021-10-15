@@ -39,7 +39,7 @@ sections:
         new_window: true
         no_follow: false
   - section_id: lorem-ipsum
-    title: Portfolio
+    title: Recent Projects
     layout_style: tiles
     projects_number: 10
     view_all_label: More projects this way!
