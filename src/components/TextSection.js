@@ -12,6 +12,11 @@ export default class TextSection extends React.Component {
             <div className="text-block container container--md">
                 {markdownify(content)}
             </div>
+            {!_.isEmpty(actions) && (
+                    <div className="card__actions button-group">
+                        <CtaButtons actions={actions} />
+                    </div>
+                )}
         );
     }
 }
