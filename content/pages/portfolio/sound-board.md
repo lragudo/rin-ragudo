@@ -12,6 +12,9 @@ sections:
       This is project that I did for fun to create a custom sound board. I like
       to involve people in my community in my projects, so all sounds were
       suggestions from my Instagram followers.
+
+
+      https://lillianrosedesign-soundboard.netlify.app/
     type: text_section
 seo:
   title: ''
