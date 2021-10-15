@@ -77,7 +77,6 @@ sections:
 
           ###### Motion
       - title: Tools
-        image: images/service-3.svg
         content: |
           ###### Adobe Creative Suite  
 
