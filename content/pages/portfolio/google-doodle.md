@@ -1,7 +1,7 @@
 ---
 title: Google Doodle
 subtitle: A fun web animation project.
-date: '0202-03-29'
+date: '0002-03-28'
 thumb_image_alt: google
 sections:
   - image_alt: Google with illustrations of d-20 dice and a pencil
