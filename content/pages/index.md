@@ -64,7 +64,6 @@ sections:
 
           ###### Collaborative
       - title: Design
-        image: images/service-2.svg
         content: |
           ###### Logos & Branding
 
