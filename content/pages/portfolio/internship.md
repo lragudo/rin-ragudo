@@ -7,6 +7,7 @@ sections:
     width: regular
     type: image_section
     image: /images/easter2.jpg
+    caption: Easter Sunday Illustration
   - content: >
       I worked on several projects with FBC’s Communication Director, Seth
       Weber. My work included motion graphics, booklet covers, logo and
