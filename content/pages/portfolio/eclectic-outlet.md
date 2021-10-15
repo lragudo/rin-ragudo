@@ -20,7 +20,12 @@ sections:
       young adults. This game is also intended to be accessible to anyone as the
       cards are downloadable to print and the instructions are online. I went
       through three card deck prototypes and several rounds of play testing with
-      different rules. 
+      different rules.
+
+
+
+
+      https://www.figma.com/proto/r5Exjj66ltDlgU5Jdq0mMx/Card-Game-Instructions?node-id=37%3A57\&scaling=min-zoom
     type: text_section
   - image_alt: 6 example cards
     width: regular
