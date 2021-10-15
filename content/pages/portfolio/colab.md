@@ -17,7 +17,10 @@ sections:
       Our goal was to create a visual identity and website for the CoLab that
       could go along with other promotional materials other teams were
       designing. The website provides a place for informational and promotional
-      material about the space. 
+      material about the space.
+
+
+      https://ewucolab.netlify.app/home/
     type: text_section
 seo:
   title: ''
