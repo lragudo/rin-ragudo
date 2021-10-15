@@ -37,7 +37,6 @@ sections:
     type: image_section
     image: /images/parade5.png
   - image_alt: social media mockups
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/parade6.png
