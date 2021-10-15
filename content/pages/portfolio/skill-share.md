@@ -8,11 +8,11 @@ sections:
     width: regular
     type: image_section
     image: /images/thumbnail-83da02f8.jpg
-  - content: >+
+  - content: >
       Design guidelines for the new timebank for the Airway Heights community.
       Timebanking is a time-based currency. Give one hour of service and receive
       one time credit. You can also use your credits to receive services. The
-      community needed a logo and design guidelines to apply to posters, 
+      community needed a logo and design guidelines to apply to posters,
 
       handouts, and their timebanking app. A community leader came to my design
       class and shared about their needs and what the time banking was all
@@ -23,6 +23,8 @@ sections:
       available. This concept became the foundation to the rest of the branding
       guides.
 
+
+      https://issuu.com/lillian.ragudo/docs/designguidelines
     type: text_section
   - image_alt: Logo types
     width: regular
