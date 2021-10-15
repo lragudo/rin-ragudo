@@ -17,6 +17,7 @@ sections:
     width: regular
     type: image_section
     image: /images/easter4.jpg
+    caption: Good Friday Illustration
   - width: regular
     type: image_section
     image: /images/Screen Shot 2020-03-05 at 10.25.04 AM.png
