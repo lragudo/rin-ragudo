@@ -1,7 +1,7 @@
 ---
 title: Skill Reservior
 subtitle: Branding Guidelines for Airway Height's Timebank
-date: '2021-10-13'
+date: '2018-05-25'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: Skill Reservior
