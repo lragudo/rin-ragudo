@@ -1,5 +1,5 @@
 ---
-title: Google Doodle
+title: Queer christian
 subtitle: A fun web animation project.
 date: '2021-10-13'
 thumb_image_alt: google
