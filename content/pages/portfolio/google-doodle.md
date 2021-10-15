@@ -11,7 +11,10 @@ sections:
   - content: >
       In this project I created a google doodle for International Tabletop Day.
       The project tested my skills and understanding of CSS animation and using
-      APIs such as GSAP. 
+      APIs such as GSAP.
+
+
+      \[Doodle Site] (https://lragudo.github.io/google-doodle/)
     type: text_section
 seo:
   title: ''
