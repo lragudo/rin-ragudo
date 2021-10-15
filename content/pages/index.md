@@ -83,15 +83,19 @@ sections:
       - title: Languages
         image: images/service-3.svg
         content: |
+          ###### Adobe Creative Suite  
+
+          (Illustrator, Indesign, Photoshop, After Effects, Premier Pro)
+
+          ###### Figma & Protopie
+
           ###### Java Script
 
           ###### React
 
           ###### HTML
 
-          ###### CSS
-
-          ###### SASS
+          ###### CSS & SASS
 
           ######
   - type: cta_section
