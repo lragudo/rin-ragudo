@@ -1,7 +1,7 @@
 ---
 title: Fall Blossoms
 subtitle: Coloring Book
-date: '0002-10-13'
+date: '2020-10-10'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: front cover of book
